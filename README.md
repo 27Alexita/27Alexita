@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Apasionada del mundo 🌍 de la tecnología 💻 y el desarrollo📱.
+
 <!--
 **27Alexita/27Alexita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
