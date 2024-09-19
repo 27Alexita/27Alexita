@@ -43,5 +43,7 @@ En mi perfil podrás encontrar los trabajos realizados durante el 2º curso en *
 ## 🌟✨🌈 ¡Gracias por visitar mi perfil! 🌈✨🌟
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=27Alexita&label=Visitas&color=blue&style=flat)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=27Alexita&show_icons=true&theme=radical)
+
 
 
