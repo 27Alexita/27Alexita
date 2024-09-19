@@ -1,4 +1,4 @@
-## ¡Hola!👋 Soy Sandra 😊
+## Hello world!👋🌍 Soy Sandra 😊
 
 Apasionada del mundo 🌍 de la tecnología 💻 y el desarrollo📱.
 
