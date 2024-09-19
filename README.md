@@ -1,6 +1,6 @@
 ## Hello world!👋🌍 Soy Sandra 😊
 
-![Descripción de la imagen](https://github.com/27Alexita/images/blob/main/Yo2.JPG)
+![Descripción de la imagen](https://github.com/27Alexita/images/blob/main/file.jpg)
 
 
 Apasionada del mundo 🌍 de la tecnología 💻 y el desarrollo📱.
