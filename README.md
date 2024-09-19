@@ -4,7 +4,7 @@ Apasionada del mundo 🌍 de la tecnología 💻 y el desarrollo📱.
 
 Soy Técnico en Desarrollo de Aplicaciones Multiplataforma con una sólida base en diseño, desarrollo y mantenimiento de aplicaciones, tanto para entornos móviles como de escritorio.
 
-## 🔭 Actualmente voy a realizar mis prácticas en empresa para terminar la titulación.
+## 🔭 Actualmente voy a realizar mis prácticas en empresa para finalizar la titulación.
 
 ## 🚀 Tecnologías y Herramientas
 - **Lenguajes**: Java como punto fuerte. Conocimientos básicos en Kotlin y Python.
