@@ -1,5 +1,8 @@
 ## Hello world!👋🌍 Soy Sandra 😊
 
+![Descripción de la imagen]([URL_de_la_imagen](https://github.com/27Alexita/images/blob/main/Yo2.JPG)
+
+
 Apasionada del mundo 🌍 de la tecnología 💻 y el desarrollo📱.
 
 Soy Técnico en Desarrollo de Aplicaciones Multiplataforma con una sólida base en diseño, desarrollo y mantenimiento de aplicaciones, tanto para entornos móviles como de escritorio.
