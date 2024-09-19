@@ -29,7 +29,7 @@ En mi perfil podrás encontrar los trabajos realizados durante el 2º curso en *
 - Email: Sandra.SV27@outlook.es
 - LinkedIn: www.linkedin.com/in/sandra-sanabrias-viller
 
-## 📲 Plataformas para desarrolladores en las que me encuentro ( *redes sociales para techies* 😜)
+## 📲 Plataformas para desarrolladores en las que me encuentro ( *RRSS para techies* 😜)
 - Daily.dev: https://app.daily.dev/sandrasv27
 - Dev.to: https://dev.to/sandrasv27
 
